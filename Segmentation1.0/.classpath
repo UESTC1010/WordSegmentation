@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/ansj_lucene4_plug-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer3.1.5GA.jar"/>
+	<classpathentry kind="lib" path="lib/je-analysis-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/nlp-lang-0.3.jar"/>
+	<classpathentry kind="lib" path="lib/paoding-analysis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
